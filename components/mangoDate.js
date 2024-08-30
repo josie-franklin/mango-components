@@ -1,4 +1,4 @@
-class MangoDate extends HTMLElement {
+export class MangoDate extends HTMLElement {
   // called when element is created, example:
   // const component = new MangoDate()
   // can create shadow DOM, but can't add nodes to normal DOM and can't add/set attributes
